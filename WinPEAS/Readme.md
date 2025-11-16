@@ -14,4 +14,4 @@
 
 ⇒&nbsp;&nbsp; As you can imagine this might be both time consuming and risky since it might lead us to break the functionality of the program. Luckly we have a way around this using an automated python script by `h4wkst3r` <a href="https://github.com/h4wkst3r/InvisibilityCloak">InvisibilityCloak</a>
 
-⇒&nbsp;&nbsp; This script obfuscates the entire solution by either `base64`,`rot13`, or `string reverse`. The procudure of how to use the script is illustrated on h4wkst3r's github page highlighted above
+⇒&nbsp;&nbsp; This script obfuscates the entire solution by either `base64`,`rot13`, or `string reverse`. The procudure of how to use the script is illustrated on h4wkst3r's github page highlighted above.
